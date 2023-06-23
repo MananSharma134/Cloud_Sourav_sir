@@ -1,0 +1,1 @@
+print("Indians are very smart person")
